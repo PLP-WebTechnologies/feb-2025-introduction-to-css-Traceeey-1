@@ -1,0 +1,29 @@
+#facebook {
+    background: url(../images/facebook.png) no-repeat;
+    color: #5be70a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.home-footer {
+    background: clear;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    color: #958a8a;
+    border-top: 1px solid #ccc;
+    clear: both;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1731286507379-94216c27cf9d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;/* prevent image from repeating*/
+    background-size: cover; /* scale image to cover entire element*/
+    background-position: center;/* center the image */
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    color: #333;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
